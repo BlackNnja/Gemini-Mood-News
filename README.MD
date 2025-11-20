@@ -9,5 +9,3 @@ Features:
 - AI mood meter
 - Scrolling market/crypto/air traffic tickers
 - Multi-language support (ENG, HEB, ARA, SPA, FRE, RUS, JPN, GER)
-
-Upload these files as-is into a GitHub repo, and open `index.html` in a browser.
